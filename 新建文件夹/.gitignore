@@ -1,0 +1,4 @@
+# 忽略 index.js
+!inedx.js 
+# 忽略任何目录下为chang的文件 
+chang /
